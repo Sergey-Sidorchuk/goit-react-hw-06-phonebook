@@ -1,0 +1,13 @@
+.input {
+  width: 300px;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: 1 px solid blue;
+  border-radius: 5px;
+  background-color: rgb(235, 235, 224);
+}
+
+.label {
+  display: grid;
+  font-size: 20px;
+}
